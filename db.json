@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Johnson",
+      "status": "Winterized",
+      "type": "Well",
+      "address": "frontage road",
+      "description": "Shutoff in boiler room off garage"
+    },
+    {
+      "name": "Black",
+      "status": "Winterized",
+      "type": "Municipal",
+      "address": "Lookout Circle",
+      "description": "East side",
+      "id": 2
+    },
+    {
+      "name": "Motorbike",
+      "status": "Winterized",
+      "type": "Municipal",
+      "address": "GoldRush",
+      "description": "Left of front door",
+      "id": 3
+    }
+  ]
+}
